@@ -6,9 +6,12 @@ sections:
   - block: features
     content:
       title: Teaching
-      text: I tutored undergraduates in statistics, mathematics, and physics at the County College of Morris for over two years. I also have over six years of additional experience tutoring these subjects and computer science for various age groups. Please reach out if you're interested in tutoring for any of the following.
+      text: <div style="text-align: right">I tutored undergraduates in statistics, mathematics, and physics at the County College of Morris for over two years. I also have over six years of additional experience tutoring these subjects and computer science for various age groups. Please email me if you're interested in tutoring!</div><br>
 
       items:
+        - name: SAT and GRE
+          icon: 📝
+          icon_pack: emoji
         - name: Algebra
           icon: 🔢
           icon_pack: emoji
@@ -32,8 +35,5 @@ sections:
           icon_pack: emoji
         - name: Introductory Physics
           icon: 🚀
-          icon_pack: emoji
-        - name: SAT and GRE
-          icon: 📝
           icon_pack: emoji
 ---
