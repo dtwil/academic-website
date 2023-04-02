@@ -1,6 +1,6 @@
 ---
 title: Teaching
-share: false
+type: landing
 
 sections:
   - block: features
