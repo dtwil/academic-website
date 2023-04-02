@@ -6,7 +6,7 @@ sections:
   - block: features
     content:
       title: Teaching
-      text: I have over eight years of experience tutoring the below subjects. Please [email me](mailto:danieltwili@gmail.com) if you're interested in tutoring!
+      text: I have over eight years of experience tutoring math and statistics. Please [email me](mailto:danieltwili@gmail.com) if you're interested in tutoring! I offer services locally and through Zoom.
 
       items:
         - name: SAT and GRE
