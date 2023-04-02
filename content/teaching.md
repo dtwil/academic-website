@@ -6,7 +6,8 @@ sections:
   - block: features
     content:
       title: Teaching
-      text: <div style="text-align: right">I tutored undergraduates in statistics, mathematics, and physics at the County College of Morris for over two years. I also have over six years of additional experience tutoring these subjects and computer science for various age groups. Please [email me](mailto:danieltwili@gmail.com) if you're interested in tutoring!</div><br>
+      text: I tutored undergraduates in statistics, mathematics, and physics at the County College of Morris for over two years. I also have over six years of additional experience tutoring these subjects and computer science for various age groups. Please [email me](mailto:danieltwili@gmail.com) if you're interested in tutoring!
+      {style="text-align: justify;"}
 
       items:
         - name: SAT and GRE
