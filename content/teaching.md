@@ -7,7 +7,6 @@ sections:
     content:
       title: Teaching
       text: I tutored undergraduates in statistics, mathematics, and physics at the County College of Morris for over two years. I also have over six years of additional experience tutoring these subjects and computer science for various age groups. Please reach out if you're interested in tutoring for any of the following.
-      {style="text-align: justify;"}
 
       items:
         - name: Algebra
