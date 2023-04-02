@@ -1,11 +1,8 @@
 ---
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: PhD student in statistics interested in machine learning theory and causal
+  inference.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,6 +35,10 @@ title: Dan Twili
 first_name: Alice
 email: ""
 ---
-Hi there! My name is Dan Twili (rhymes with 'Billy'). I'm an incoming PhD student studying statistics. Before pursuing a PhD, I graduated from Rutgers University with a double major in mathematics and computer science. I'm broadly interested in machine learning theory and causal inference. My previous research focused on machine learning fairness in the context of linear regression. {style="text-align: justify;"} 
+Hi there! My name is Dan Twili (rhymes with 'Billy'). I'm an incoming PhD student studying statistics. Before pursuing a PhD, I graduated from Rutgers University with a double major in mathematics and computer science. I'm broadly interested in machine learning theory and causal inference. My previous research focused on machine learning fairness in the context of linear regression.
 
-I'm grateful to be a GEM Fellow with sponsorship through IBM. If you are interested in research, please feel free to email me. {style="text-align: justify;"}
+{style="text-align: justify;"} 
+
+I'm grateful to be a GEM Fellow with sponsorship through IBM. If you are interested in research, please feel free to email me. 
+
+{style="text-align: justify;"}
