@@ -38,5 +38,5 @@ email: "danieltwili@gmail.com"
 Hi there! My name is Dan Twili (rhymes with 'Billy'). I'm an incoming statistics PhD student at Columbia University. Before pursuing a PhD, I graduated from Rutgers University with a double major in mathematics and computer science. I'm broadly interested in machine learning theory and causal inference. My previous research focused on machine learning fairness in the context of linear regression.
 {style="text-align: justify;"} 
 
-I'm grateful to be a Provost Diversity Fellow as well as a GEM Fellow with sponsorship through IBM. If you are interested in my research, please feel free to email me.
+I'm grateful to be a Provost Diversity Fellow and a GEM Fellow with sponsorship through IBM. If you are interested in my research, please feel free to email me.
 {style="text-align: justify;"}
