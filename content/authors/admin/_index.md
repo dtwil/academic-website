@@ -13,7 +13,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations: []
+organizations:
+  - name: Columbia University
+    url: https://stat.columbia.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
