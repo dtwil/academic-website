@@ -39,6 +39,7 @@ Hi there! My name is Dan Twili (rhymes with 'Billy'). I'm an incoming statistics
 {style="text-align: justify;"} 
 
 Please feel free to email me. I'm grateful to be supported as a:
+{style="text-align: justify;"}
 * GFSD Fellow with sponsorship from the National Security Agency
 * GEM Fellow with sponsorship from IBM
 * Columbia Provost Diversity Fellow.
